@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Srijit Bhattacharya</h1>
+<h1 align="center">Hi 👋, Welcome to Srijit's space</h1>
 <h3 align="center">Data Engineer by passion and profession</h3>
 
 - 🔭 I’m currently working on **CentrePointe**: POS and Inventory Data Pipeline
