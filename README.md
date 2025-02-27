@@ -7,7 +7,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/srijit43](https://github.com/srijit43)
 
-- 💬 Ask me about **SQL, Spark, Data Architecture and Optimization**
+- 💬 Ask me about **SQL, ETL, Spark, Data Modelling, Analytics**
 
 - 📫 How to reach me **srijit4308@gmail.com**
 
