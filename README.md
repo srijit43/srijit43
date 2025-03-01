@@ -47,9 +47,9 @@
   <a href="https://www.snowflake.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/snowflake/snowflake-icon.svg" alt="snowflake" width="40" height="40"/> </a>
    <a href="https://www.matillion.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/matillion/matillion-ar21.svg" alt="matillion" width="80" height="40"/> </a>
 <a href="https://www.terraform.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/terraformio/terraformio-ar21.svg" alt="terraform" width="80" height="40"/> </a>
-<a href="https://www.datadog.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/datadoghq/datadoghq-ar21.svg" alt="datadog" width="80" height="40"/> </a>
-  
+<a href="https://www.datadog.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/datadoghq/datadoghq-ar21.svg" alt="datadog" width="80" height="40"/> </a>  
 </p> 
+
 ### Cloud Services:
 <p align="left">
   <a href="https://azure.microsoft.com/en-in/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="40" height="40"/> </a>
