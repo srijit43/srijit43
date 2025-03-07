@@ -73,7 +73,7 @@
 
 
 
-<p align="center">
+<p align="left">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=srijit43&show_icons=true&locale=en&layout=compact&langs_count=10" alt="srijit43" />
 </p>
 
