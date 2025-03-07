@@ -71,6 +71,10 @@
   <a href="https://www.jenkins.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="jenkins" width="40" height="40"/> </a>
 </p>
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=srijit43&show_icons=true&locale=en&layout=compact" alt="srijit43" /></p>
+
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=srijit43&show_icons=true&locale=en&layout=compact&langs_count=10" alt="srijit43" />
+</p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=srijit43&" alt="srijit43" /></p>
