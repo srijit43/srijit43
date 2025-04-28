@@ -11,7 +11,7 @@
 
 - 📫 How to reach me **srijit4308@gmail.com**
 
-- 📄 Know about my experiences [Srijit_Bhattacharya_cv](https://github.com/srijit43/Personal_items/blob/main/resume_Srijit_Bhattacharya_cv.pdf)
+- 📄 Know about my experiences [Srijit_Bhattacharya_cv](https://github.com/srijit43/Personal_items/blob/main/SrijitBhattacharya_resume_CS.pdf)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
