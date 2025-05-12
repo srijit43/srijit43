@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, Welcome to Srijit's space</h1>
 <h3 align="center">Data Engineer by passion and profession</h3>
 
-- 🔭 I’m currently working on **CentrePointe**: POS and Inventory Data Pipeline (https://github.com/srijit43/dbt_test/tree/test)
+- 🔭 I’m currently working on **CentrePointe**: POS and Inventory Data Pipeline [CPP_POS_Data_Pipeline_BluePrint](https://github.com/srijit43/dbt_test/tree/test)
 
 - 🌱 I’m currently learning **Springboot** <a href="https://www.spring.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/springio/springio-ar21.svg" alt="datadog" width="80" height="40"/> </a>
 
